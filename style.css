@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://static4.depositphotos.com/1008265/313/i/450/depositphotos_3130662-stock-photo-nice-background.jpg");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
